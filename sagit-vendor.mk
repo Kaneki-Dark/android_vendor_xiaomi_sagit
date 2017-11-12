@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/bin/cnss_diag:system/bin/cnss_diag \
     vendor/xiaomi/sagit/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/xiaomi/sagit/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/xiaomi/sagit/proprietary/bin/hvdcp_opti:system/bin/hvdcp_opti \
+    vendor/xiaomi/sagit/proprietary/vendor/bin/hvdcp_opti:system/vendor/bin/hvdcp_opti \
     vendor/xiaomi/sagit/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/xiaomi/sagit/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/xiaomi/sagit/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
