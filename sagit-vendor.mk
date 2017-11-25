@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sagit/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/xiaomi/sagit/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/xiaomi/sagit/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
+    vendor/xiaomi/sagit/proprietary/vendor/etc/powerhint.xml:system/vendor/etc/powerhint.xml \
     vendor/xiaomi/sagit/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
     vendor/xiaomi/sagit/proprietary/bin/iop:system/bin/iop \
     vendor/xiaomi/sagit/proprietary/bin/irsc_util:system/bin/irsc_util \
